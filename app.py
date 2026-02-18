@@ -29,3 +29,7 @@ if uploaded_file is not None:
     st.plotly_chart(px.scatter(df, x=x_axis, y=y_axis), use_container_width=True)
 else:
     st.info("Please upload a CSV file to generate visualizations.")
+    st.sidebar.title("Data Visualizer Pro")
+    st.sidebar.info("Upload a CSV file to begin your automated data analysis.")
+    st.sidebar.markdown("---")
+    st.sidebar.write("Developed by Moaz Ahmed & Team")

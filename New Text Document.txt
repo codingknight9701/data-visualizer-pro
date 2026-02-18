@@ -1,3 +1,0 @@
-cd "C:\Users\LENOVO\OneDrive\Desktop\New folder"
-
-streamlit run app.py
