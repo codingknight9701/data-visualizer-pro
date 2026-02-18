@@ -24,7 +24,5 @@ Data Visualizer Pro is a high-performance web tool designed to bridge the gap be
 ## 📥 Installation & Setup
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/data-visualizer-pro.git](https://github.com/your-username/data-visualizer-pro.git)
-   cd data-visualizer-pro
+1. **open the link :**
+  https://data-visualizer-pro-vhya8pavjfthpqmtbdvxwe.streamlit.app/
